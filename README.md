@@ -4,13 +4,9 @@
 
 🌱 Currently, I’m diving into Azure tools for data engineering, as well as exploring dbt and Databricks.
 
-💞️ I’m eager to collaborate on projects involving big data ingestion and transformation.
+I’m eager to collaborate on projects involving big data ingestion and transformation.
 
 📫 Let’s connect on LinkedIn!
-
-😄 Pronouns: she/her
-
-⚡ Fun fact: I’m on a fun (and sometimes challenging) journey to becoming fluent in Italian!
 
 <!---
 FereshtehFarahani/FereshtehFarahani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
