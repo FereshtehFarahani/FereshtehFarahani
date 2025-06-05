@@ -1,10 +1,6 @@
  👋 Hi, I’m @FereshtehFarahani
 
-👀 I’m passionate about data ingestion, processing, and visualization.
-
-🌱 Currently, I’m diving into Azure tools for data engineering, as well as exploring dbt and Databricks.
-
-I’m eager to collaborate on projects involving big data ingestion and transformation.
+I’m passionate about data ingestion, processing, and visualization.
 
 📫 Let’s connect on LinkedIn!
 
